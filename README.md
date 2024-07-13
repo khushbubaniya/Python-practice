@@ -1,2 +1,2 @@
 ================
-This is a python program  using variables for practice.
+This is a python programming for practice.
